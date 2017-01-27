@@ -3,6 +3,146 @@ body {
 	margin: 0;
 }
 
+.alert{
+	width: 500px;
+	height: 300px;
+	padding: 30px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -250px;
+	background-color: black;
+	color: white;
+
+	display: none;
+}
+
+.alert2{
+	width: 500px;
+	height: 300px;
+	padding: 30px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -250px;
+	background-color: black;
+	color: white;
+
+	display: none;
+}
+
+.alert3{
+	width: 500px;
+	height: 300px;
+	padding: 30px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -250px;
+	background-color: black;
+	color: white;
+
+	display: none;
+}
+
+.alert4{
+	width: 500px;
+	height: 300px;
+	padding: 30px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -250px;
+	background-color: black;
+	color: white;
+
+	display: none;
+}
+
+.alert5{
+	width: 500px;
+	height: 300px;
+	padding: 30px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -250px;
+	background-color: black;
+	color: white;
+
+	display: none;
+}
+
+.alert6{
+	width: 500px;
+	height: 300px;
+	padding: 30px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -250px;
+	background-color: black;
+	color: white;
+
+	display: none;
+}
+
+.alert7{
+	width: 500px;
+	height: 300px;
+	padding: 30px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -250px;
+	background-color: black;
+	color: white;
+
+	display: none;
+}
+
+.alert8{
+	width: 500px;
+	height: 300px;
+	padding: 30px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -250px;
+	background-color: black;
+	color: white;
+
+	display: none;
+}
+
+.alert9{
+	width: 500px;
+	height: 300px;
+	padding: 30px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -250px;
+	background-color: black;
+	color: white;
+
+	display: none;
+}
+
+.alert10{
+	width: 500px;
+	height: 300px;
+	padding: 30px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -250px;
+	background-color: black;
+	color: white;
+
+	display: none;
+}
+
 header {
 	background:#333;
 	color: white;
@@ -15,7 +155,7 @@ header p {
 
 }
 
-.button {
+.js--show-alert {
 	background: #333;
 	border-color: blue;
 	color: blue;
@@ -23,7 +163,7 @@ header p {
 	padding: 20px;
 }
 
-.button2 {
+.js--show-alert2 {
 	background: #333;
 	border-color: blue;
 	color: blue;
@@ -31,7 +171,7 @@ header p {
 	padding: 20px;
 }
 
-.button3 {
+.js--show-alert3 {
 	background: #333;
 	border-color: blue;
 	color: blue;
@@ -256,6 +396,702 @@ header p {
 }
 
 .button31 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button32 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button33 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button34 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button35 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button36 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button37 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button38 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button39 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button40 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button41 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button42 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button43 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button44 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button45 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button46 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button47 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button48 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button49 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button50 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button51 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
+	background: #333;
+	border-color: blue;
+	color: blue;
+	margin: 5px;
+	padding: 20px;
+}
+
+.button52 {
 	background: #333;
 	border-color: blue;
 	color: blue;
